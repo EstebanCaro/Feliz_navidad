@@ -1,0 +1,62 @@
+body{
+    color: blue;
+    background-color: #6b92b9;
+    margin: 0px;
+    padding: 0px;
+   
+   
+}
+
+h1{
+    
+    color: red;
+    font-size: 74px;
+    font-family:cursive;
+    font-style:italic;
+    text-shadow: 10px 0px 6px black;
+    height: 100px;
+    text-align: center;
+    
+}
+
+
+header{
+    
+    background-color: whitesmoke;
+    height: 250px;
+
+    
+}
+
+.cuidense{
+    font-size: 45px;
+    color: rgba(234, 190, 63);
+    text-shadow: 3px 5px 5px green;
+}
+
+
+.frase{
+    
+    font-size: 85px;
+    font-family: cursive;
+    text-shadow: 3px 5px 5px blue;
+    color: lawngreen;
+    
+}
+
+
+.fondo{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+footer{
+    background-color: blue;
+    animation-name: animacion;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+

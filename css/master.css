@@ -1,0 +1,27 @@
+
+h1{
+    color: red;
+    font-size: 56px;
+    font-family:cursive;
+    font-style:italic;
+  
+
+}
+
+
+body{
+    color: blue;
+    background-color: #6b92b9;
+    margin: 0px;
+    padding: 0px;
+    
+   
+}
+
+
+footer{
+    height: -200px;
+    animation-name: animación;
+    animation-duration: 5s;
+    animation-iteration-count: infinite; 
+}
